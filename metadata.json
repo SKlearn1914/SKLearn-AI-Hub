@@ -1,0 +1,7 @@
+{
+  "name": "SKLearn AI Hub",
+  "description": "Unified Multi-Modal AI Dashboard supporting Audio, Text, PDF, Image Generation, Chat, Writing, SEO, Career Tools, and Website building.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
